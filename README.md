@@ -1,0 +1,1 @@
+# Desafio prático de utilizar uma API de previsão de tempo utilizando Angular e Typescript, realizado para a plataforma [Digital Innovation One.](https://web.digitalinnovation.one/track/everis-fullstack-developer?tab=path)
